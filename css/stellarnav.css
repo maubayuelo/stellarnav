@@ -34,9 +34,9 @@
 .stellarnav.light li a { color: #000; }
 
 /* dark theme */
-.stellarnav.dark { background: rgba(0, 0, 0, 1); }
+.stellarnav.dark { background: red; }
 .stellarnav.dark a { color: #FFF; }
-.stellarnav.dark ul ul { background: rgba(0, 0, 0, 1); }
+.stellarnav.dark ul ul { background: red; }
 .stellarnav.dark li a { color: #FFF; }
 /* sticky nav */
 .stellarnav.fixed { position: fixed; width: 100%; top: 0; left: 0; z-index: 9999; }
